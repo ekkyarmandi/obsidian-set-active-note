@@ -1,0 +1,7 @@
+.set-active-note-btn {
+	cursor: pointer;
+}
+
+.set-active-note-btn:hover {
+	color: var(--text-accent);
+}

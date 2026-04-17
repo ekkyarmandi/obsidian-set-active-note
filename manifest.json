@@ -1,0 +1,9 @@
+{
+	"id": "set-active-note",
+	"name": "Set Active Note",
+	"version": "1.0.0",
+	"minAppVersion": "1.6.3",
+	"description": "Automatically tracks the active note path to /tmp/obsidian-active-note.txt every second",
+	"author": "ekkyarmandi",
+	"isDesktopOnly": true
+}
